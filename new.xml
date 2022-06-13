@@ -1,6 +1,10 @@
- {
-"name":"Yakubovsky ilya Aleksandrovich",
-"age": 32,
-"pets": 0,
-"salary": 3000
-}
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<about me>
+
+	<name>Yakubovsky Ilya Aleksandrovich</name>
+
+	<age>32</age>
+
+	<pets>0</pets>
+	
+<salary>1000</salary>
