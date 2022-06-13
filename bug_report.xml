@@ -1,1 +1,13 @@
 
+"ID": 1
+"description":"Model Redmi 6. version 8.1.0. О11019, Authorized user, the numbthe number of subscribers of the user will exceed 99,999"
+"priority":"lowest"
+"steps":[
+  "1. click 'Leaderboard' in the tab bar at the top of the screen,"
+  "2. click the 'All the time' tab,"
+  "3. elect the first user in the list"
+  ]
+"actual result":"Page elements do not overlap"
+"expected result":"Page elements overlap in user profile one above the other"
+"attachments":"file"
+
