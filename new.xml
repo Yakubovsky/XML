@@ -1,4 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Пример XML документа -->
 <about me>
 
 	<name>Yakubovsky Ilya Aleksandrovich</name>
@@ -8,3 +9,5 @@
 	<pets>0</pets>
 	
 <salary>1000</salary>
+</about me>
+</about me>

@@ -1,10 +1,10 @@
-[C[D<?xml version="1.0" encoding="UTF-8" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <!-- Пример XML документа -->
 <skills>
-<Attentiveness,[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[3[3~<[C[C[C[C[C[C[C[C[C[C[C[C[C>
-<Discipline>
-<Performance>
-<A responsibility>[D[D[D[D[D[D[D[D[D[D[D[D[D[A[D[D[B[a[p[d[a[B[B[B[B[B[B[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
-<Communicability>[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[C[3~c
-<Tact>
+Attentiveness
+Discipline
+Performance
+responsibility
+Communicability
+Tact
 </skills>
