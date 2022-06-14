@@ -1,16 +1,15 @@
-<?xml version="1.0" encoding="UTF-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8" ?>
 <!-- Пример XML документа -->
 <Bag_report>
   <ID>1</ID>
-  <description>Model_Redmi_6_version_8_1_0_О11019_Authorized_user_the_numbthe_number_of_subscribers_of_the_user_will_exceed_99_999</description>
+  <description>Model Redmi 6, version 8.1.0. О11019 Authorized user the numbthe number of subscribers of the user will exceed 99.999</description>
   <priority>lowest</priority>
   <steps>
-    <step>1_click_'Leaderboard'_in_the_tab_bar_at_the_top_of_the_screen</step>
-    <step>2_click_the_'All_the_time'_tab</step>
-    <step>3_elect_the_firstuser_in_the_list</step>
+    <step>1. click 'Leaderboard' in the tab bar at the top of the screen</step>
+    <step>2. click the 'All the time'_tab</step>
+    <step>3. elect the firstuser in the list</step>
   </steps> 
-  <actual_result>Pag_elements_do_not_overlap</actual_result>
-  <expected_result>Page_elements_overlap_in_user_profile_one_above_the_other</expected_result>
+  <actual_result>Pag elements do not overlap</actual_result>
+  <expected_result>Page elements overlap in user profile one above the other</expected_result>
   <attachments>file</attachments>
-</Bag_report>  
-
+</Bag_report> 
