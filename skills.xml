@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="UTF-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8" ?>
 <!-- Пример XML документа -->
 <skills>
-	<skill>Attentiveness</skills>
-	<skill>Discipline</skills>
-	<skill>Performance</skills>
-	<skill>Responsibility</skills>
-	<skill>Communicability</skills>
-	<skill>Tact</skills>
+	<skill>Attentiveness</skill>
+	<skill>Discipline</skill>
+	<skill>Performance</skill>
+	<skill>Responsibility</skill>
+	<skill>Communicability</skill>
+	<skill>Tact</skill>
 </skills>
